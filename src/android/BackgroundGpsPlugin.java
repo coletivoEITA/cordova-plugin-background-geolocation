@@ -22,7 +22,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONException;
 
-import android.support.v4.content.LocalBroadcastManager;
+// NOT NEEDED (commented below), give compilation error
+//import android.support.v4.content.LocalBroadcastManager;
 import android.content.BroadcastReceiver;
 
 import android.os.Build;

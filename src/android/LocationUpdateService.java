@@ -48,7 +48,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.BroadcastReceiver;
-import android.support.v4.content.LocalBroadcastManager;
+// NOT NEEDED (commented below), give compilation error
+//import android.support.v4.content.LocalBroadcastManager;
 
 import android.location.Location;
 import android.location.Criteria;
